@@ -1,0 +1,6 @@
+.active{
+    border-bottom: 1px solid #fff;
+}
+.nav-item{
+    cursor: pointer;
+}
